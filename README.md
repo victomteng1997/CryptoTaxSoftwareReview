@@ -2,7 +2,7 @@
 
 Static review site for crypto tax software, built with Astro and ready for GitHub Pages.
 
-**Default URL**: `https://greydgl.github.io/CryptoTaxSoftwareReview/`
+**Default URL**: `https://victomteng1997.github.io/CryptoTaxSoftwareReview/`
 
 ## Local development
 
@@ -28,7 +28,7 @@ Push this project to a GitHub repository named `CryptoTaxSoftwareReview` and ena
 Default deploy target:
 
 ```js
-const SITE_URL = 'https://greydgl.github.io';
+const SITE_URL = 'https://victomteng1997.github.io';
 const BASE_PATH = '/CryptoTaxSoftwareReview';
 ```
 
